@@ -1,0 +1,21 @@
+# Preparação de aulas {#sec-preparacao}
+
+## Ideia central
+
+O uso pessoal é a melhor porta de entrada. O docente testa a ferramenta num conteúdo que domina e, por isso, enxerga os erros com facilidade.
+
+## Usos a desenvolver (com exemplo geocientífico em cada um)
+
+- **Banco de questões.** Gerar questões sobre um tema e revisar cada uma. Útil também como exercício de identificar distratores mal formulados.
+- **Estudos de caso regionais.** Rascunhar um caso (por exemplo, um evento de movimento de massa) a partir de fontes que o docente fornece, em vez de pedir que a IA "conheça" o caso.
+- **Adaptação de nível.** Reescrever um texto para calouros, para a licenciatura ou para o público externo.
+- **Dados sintéticos para exercícios.** Gerar dados controlados (por exemplo, atitudes de camadas para exercício de estereograma) com propriedades conhecidas.
+- **Roteiros de campo.** Organizar logística e checklist de segurança. A parte geológica do roteiro vem do docente.
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+Pedir à IA que "descreva a geologia do ponto X" para um roteiro de campo é o caminho mais curto para levar erros para a frente da turma. Forneça as fontes e peça que ela organize.
+:::
+
+::: {.callout-tip .na-pratica title="Na prática"}
+<!-- TODO: relato de uso no preparo de uma aula real (disciplina, o que foi pedido, o que precisou ser corrigido) -->
+:::

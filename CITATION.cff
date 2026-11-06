@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Se usar este material, cite-o conforme abaixo."
+title: "IA Generativa no Ensino de Geociências: um manual vivo para docentes"
+type: dataset
+authors:
+  - family-names: Viana
+    given-names: Camila Duelis
+    affiliation: "Instituto de Geociências, Universidade de São Paulo"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 0.1.0
+# doi: 10.5281/zenodo.XXXXXXX
+date-released: 2026-11-06
+license: CC-BY-4.0
+repository-code: "https://github.com/SEU-USUARIO/iag-geociencias"
+url: "https://SEU-USUARIO.github.io/iag-geociencias/"
+keywords:
+  - inteligência artificial generativa
+  - ensino de geociências
+  - educação superior
+  - políticas de uso de IA

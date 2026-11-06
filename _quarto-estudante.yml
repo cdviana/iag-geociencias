@@ -1,0 +1,23 @@
+# Perfil "estudante": gera as Fichas do Estudante a partir das mesmas fontes.
+# Uso local:  quarto render --profile estudante
+# O conteúdo marcado com  ::: {.content-hidden when-profile="estudante"}
+# (preparação, avaliação, notas ao docente) fica oculto nesta versão.
+
+project:
+  output-dir: _book/estudante
+
+book:
+  title: "IA Generativa no Ensino de Geociências"
+  subtitle: "Fichas do estudante"
+  downloads: [pdf]
+  chapters:
+    - index.qmd
+    - part: "Atividades"
+      chapters:
+        - atividades/caca-alucinacao-estratigrafica.qmd
+        - atividades/descricao-afloramento-amostra.qmd
+        - atividades/auditoria-codigo-sr.qmd
+        - atividades/comunicacao-de-risco.qmd
+        - atividades/audiencia-publica-simulada.qmd
+  appendices:
+    - politicas/10-declaracao-de-uso.qmd

@@ -1,0 +1,27 @@
+# Pesquisa {#sec-pesquisa}
+
+<!--
+Critério de inclusão deste capítulo: só entra o que tem especificidade
+geocientífica ou conexão com o ensino. Dicas genéricas de produtividade
+ficam na curadoria (Apêndice A).
+-->
+
+## Ideia central
+
+Muitos docentes ainda não sabem como a IA pode ajudar na própria pesquisa. Este capítulo mostra usos concretos na nossa área, sempre com a etapa de verificação explícita.
+
+## Usos a desenvolver
+
+- **Revisão de literatura.** Mapear um tema e organizar leituras. Risco central: referências inexistentes ou atribuídas ao artigo errado. Toda referência é conferida na fonte.
+- **Código científico.** Scripts de processamento de imagens (óptico, SAR), análise espacial, Google Earth Engine. Validar com casos de resultado conhecido.
+- **Extração de dados.** Tabelas e figuras de artigos antigos e relatórios técnicos digitalizados. Conferir uma amostra dos valores extraídos.
+- **Organização de dados de campo.** Padronizar planilhas, descrições e metadados.
+- **Escrita e tradução.** Revisão de inglês, adequação ao periódico, resposta a revisores.
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+Na extração de dados de tabelas digitalizadas, erros de unidade, de casa decimal e de sinal (por exemplo, em coordenadas do hemisfério sul) passam facilmente despercebidos.
+:::
+
+::: {.callout-tip .na-pratica title="Na prática"}
+<!-- TODO: relato de um fluxo real de pesquisa do laboratório, com o passo de validação -->
+:::

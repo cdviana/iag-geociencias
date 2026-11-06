@@ -1,0 +1,81 @@
+# Caça à alucinação estratigráfica {#sec-ativ-alucinacao}
+
+| | |
+|---|---|
+| **Disciplinas** | Geologia introdutória, estratigrafia, geologia do Brasil, mapeamento |
+| **Nível** | graduação |
+| **Duração** | 1 aula (2 h) + leitura prévia |
+| **Uso de IA** | [N5 — Exploração]{.nivel} |
+| **Status** | [Proposta]{.status .proposta} |
+: {.meta-atividade}
+
+## Objetivos de aprendizagem
+
+- Verificar afirmações geológicas em fontes primárias (mapas oficiais, literatura).
+- Reconhecer padrões de erro da IA em conteúdo geológico regional.
+- Consolidar o conhecimento sobre a geologia de uma área estudada pela turma.
+
+::: {.content-hidden when-profile="estudante"}
+## Preparação (docente)
+
+- Escolher uma área que a turma conhece ou visitará em campo, de preferência **pouco documentada** na internet. Áreas famosas tendem a receber respostas corretas, o que reduz o valor da atividade.
+- Disponibilizar as fontes de verificação: mapa geológico oficial da área, nota explicativa, 1–2 artigos de referência.
+- Testar o prompt antes da aula para ter uma ideia do tipo de erro esperado.
+:::
+
+## Roteiro
+
+1. Em grupos, peçam à IA uma descrição da coluna estratigráfica e da evolução geológica da área indicada.
+2. Separem a resposta em **afirmações verificáveis** (nome de unidade, idade, litologia, relação de contato, autor citado).
+3. Verifiquem cada afirmação nas fontes fornecidas e classifiquem: **correta**, **imprecisa**, **errada**, **inventada** ou **não verificável**.
+4. Peçam à IA que corrija os erros apontados e observem como ela reage (corrige, insiste, cria novo erro).
+5. Apresentem à turma o erro mais instrutivo encontrado.
+
+## Prompts de exemplo
+
+```text
+Descreva a coluna estratigráfica da região de [LOCALIDADE, MUNICÍPIO, ESTADO],
+da unidade mais antiga para a mais nova, com idade, litologia e relações
+de contato. Cite as referências utilizadas.
+```
+
+```text
+Na sua resposta anterior, a unidade [X] foi descrita como [Y]. Segundo o
+mapa geológico oficial, [Z]. Revise a resposta.
+```
+
+## Armadilhas geológicas esperadas
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+- Unidades de regiões vizinhas ou homônimas incorporadas à coluna.
+- Idades plausíveis, mas sem base.
+- Referências bibliográficas inexistentes ou com autor e ano trocados.
+- Correção "obediente" que introduz um novo erro.
+:::
+
+::: {.content-hidden when-profile="estudante"}
+## Avaliação (docente)
+
+| Critério | Insuficiente | Adequado | Excelente |
+|---|---|---|---|
+| Verificação | afirmações sem fonte | maioria verificada | todas verificadas, com página/folha do mapa |
+| Classificação dos erros | genérica | correta | correta e com explicação da provável origem do erro |
+| Reflexão | ausente | descreve o que aconteceu | discute implicações para o uso profissional |
+
+## Variações
+
+- Pós-graduação: aplicar na área da própria dissertação.
+- Licenciatura: usar a geologia do município da escola.
+- Comparar respostas de duas ferramentas diferentes.
+:::
+
+## Perguntas de reflexão
+
+- Que tipo de afirmação foi mais difícil de verificar? Por quê?
+- Em que situações profissionais um erro como os encontrados teria consequências?
+
+::: {.content-hidden when-profile="estudante"}
+::: {.callout-tip .na-pratica title="Na prática"}
+<!-- TODO: relato de aplicação -->
+:::
+:::

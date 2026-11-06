@@ -1,0 +1,16 @@
+# Viés geográfico {#sec-vies}
+
+## Ideia central
+
+Os dados de treino dos modelos sub-representam o Brasil e o Sul Global, sobretudo em temas locais e em literatura técnica em português. Na prática, a IA tende a interpretar a geologia brasileira com modelos e exemplos de regiões mais documentadas.
+
+## Conteúdo mínimo a desenvolver
+
+- Exemplos documentados (com prompt, resposta e data) de transposição indevida de modelos geológicos.
+- Diferença de qualidade entre perguntas em português e em inglês sobre o mesmo tema.
+- Literatura cinzenta (relatórios técnicos, teses, mapas estaduais) pouco acessível aos modelos.
+- Como transformar o viés em atividade didática (ver @sec-ativ-alucinacao).
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+<!-- TODO: exemplo real de transposição indevida de um modelo geológico -->
+:::

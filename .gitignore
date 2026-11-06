@@ -1,0 +1,8 @@
+/.quarto/
+/_book/
+_freeze/
+*_files/
+.DS_Store
+.Rproj.user
+__pycache__/
+.ipynb_checkpoints/

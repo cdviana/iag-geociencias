@@ -1,0 +1,13 @@
+# Ferramentas (apêndice datado) {#sec-ferramentas}
+
+::: {.callout-important title="Este é o único capítulo que cita produtos"}
+Ferramentas mudam rapidamente. Cada entrada traz a **data da última verificação**. Se uma informação estiver desatualizada, abra uma *issue* no repositório.
+:::
+
+## Campos de cada entrada
+
+| Ferramenta | Tipo | Gratuita? | Acordo institucional? | Útil para | Cuidados | Verificado em |
+|---|---|---|---|---|---|---|
+| *a preencher* | | | | | | |
+
+<!-- TODO: preencher com as ferramentas usadas nas atividades; verificar se a universidade tem acordos institucionais -->

@@ -1,0 +1,30 @@
+# Curadoria comentada de manuais gerais {#sec-curadoria}
+
+## Como ler esta curadoria
+
+Cada manual está descrito pelo que vale a pena aproveitar para quem ensina geociências, não por um resumo completo. As referências completas estão em `referencias.bib`. Os blocos **Para ir além** ao longo do livro apontam para as entradas desta tabela.
+
+## Campos de cada entrada
+
+| Campo | Descrição |
+|---|---|
+| Tipo | diretriz institucional, guia prático, artigo, posição de entidade |
+| Idioma | PT / EN / ES |
+| Por que ler | uma frase |
+| O que ler | seções ou páginas específicas |
+| Ressalvas para geociências | onde o contexto da área pede outra abordagem |
+| Versão consultada | data ou versão do documento |
+
+## Manuais
+
+| Referência | Tipo | Idioma | Por que ler | O que ler | Ressalvas | Versão consultada |
+|---|---|---|---|---|---|---|
+| @unesco2023 | diretriz institucional | EN | visão ampla e recomendações para instituições | *a definir* | *a definir* | *a definir* |
+| @perkins2024aias | artigo | EN | escala de níveis de uso em avaliação | descrição dos níveis | atividades de campo pedem regras próprias para observação primária | *a definir* |
+| @cope2023 | posição de entidade | EN | autoria e IA em publicações | declaração completa | — | *a definir* |
+
+<!-- TODO: ampliar com manuais em português (universidades brasileiras, órgãos públicos) -->
+
+## Preservação dos links
+
+Para cada documento sem DOI, registrar também um link arquivado (Wayback Machine) ou uma cópia no Zenodo, quando a licença permitir.

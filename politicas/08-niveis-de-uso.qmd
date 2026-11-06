@@ -1,0 +1,27 @@
+# Níveis de uso de IA {#sec-niveis}
+
+## Ideia central
+
+Em vez de "pode" ou "não pode", cada atividade declara um **nível de uso** permitido. A escala abaixo é uma adaptação, a validar, da escala proposta por @perkins2024aias, com notas específicas das geociências.
+
+## Escala proposta
+
+| Nível | Nome | O que significa | Exemplo nas geociências |
+|---|---|---|---|
+| [N1]{.nivel} | Sem IA | A atividade é feita sem IA. | Caderneta de campo, descrição de amostra em aula prática |
+| [N2]{.nivel} | Planejamento | IA para levantar ideias e organizar o trabalho; o produto é do estudante. | Planejar a estrutura de um relatório |
+| [N3]{.nivel} | Colaboração | IA ajuda a produzir partes do trabalho, com declaração e revisão crítica. | Revisar a redação; gerar trecho de código comentado |
+| [N4]{.nivel} | Uso amplo | IA usada livremente; avalia-se o resultado e o julgamento do estudante. | Projeto de análise de dados com IA como assistente |
+| [N5]{.nivel} | Exploração | A própria IA é objeto de estudo e crítica. | Auditar respostas geológicas da IA |
+
+## Regras específicas das geociências
+
+- **Observação primária é N1 por padrão.** O que foi visto em campo ou na lupa é registro do estudante.
+- **Verificação é obrigatória a partir do N3.** O estudante indica a fonte usada para conferir cada afirmação técnica relevante.
+- **Código** pode chegar a N4, desde que o estudante explique o que cada etapa faz e mostre um teste com resultado conhecido.
+
+<!-- TODO: validar nomes e número de níveis com colegas; testar em pelo menos duas disciplinas -->
+
+::: {.callout-note .para-ir-alem title="Para ir além"}
+- @perkins2024aias — origem da ideia de escala. *Ler a descrição dos níveis e a discussão sobre avaliação.*
+:::

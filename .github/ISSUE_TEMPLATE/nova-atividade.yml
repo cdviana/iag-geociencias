@@ -1,0 +1,48 @@
+name: Nova atividade
+description: Proponha uma atividade com IA para aulas de geociências
+title: "[Atividade] "
+labels: ["atividade"]
+body:
+  - type: input
+    id: titulo
+    attributes:
+      label: Título da atividade
+    validations:
+      required: true
+  - type: input
+    id: disciplinas
+    attributes:
+      label: Disciplinas em que se aplica
+  - type: dropdown
+    id: nivel_ia
+    attributes:
+      label: Nível de uso de IA (ver capítulo "Níveis de uso")
+      options: [N1 — Sem IA, N2 — Planejamento, N3 — Colaboração, N4 — Uso amplo, N5 — Exploração, Combinação de níveis]
+  - type: textarea
+    id: objetivos
+    attributes:
+      label: Objetivos de aprendizagem
+    validations:
+      required: true
+  - type: textarea
+    id: roteiro
+    attributes:
+      label: Roteiro resumido
+    validations:
+      required: true
+  - type: textarea
+    id: armadilhas
+    attributes:
+      label: Armadilhas geológicas esperadas
+  - type: dropdown
+    id: status
+    attributes:
+      label: Já aplicou em sala?
+      options: [Sim, Ainda não]
+  - type: checkboxes
+    id: licenca
+    attributes:
+      label: Licença
+      options:
+        - label: Concordo em licenciar esta contribuição sob CC BY 4.0 (texto) e MIT (prompts e código).
+          required: true

@@ -1,0 +1,29 @@
+# Declaração de uso de IA {#sec-declaracao}
+
+::: {.content-hidden when-profile="estudante"}
+## Ideia central
+
+A declaração torna o uso visível e transforma-o em objeto de reflexão. Ela deve ser curta, ou ninguém a preenche.
+:::
+
+## Modelo de declaração
+
+Inclua ao final do trabalho:
+
+> **Declaração de uso de IA**
+>
+> - **Ferramenta(s) e data:**
+> - **Para que usei:** (ex.: organizar a estrutura do relatório; revisar o texto; gerar o trecho de código da seção 3)
+> - **O que verifiquei e como:** (ex.: conferi as unidades estratigráficas no mapa geológico oficial; testei o código com uma cena de resultado conhecido)
+> - **O que mudei ou descartei:**
+> - **Partes feitas sem IA:**
+
+## Versão mínima (atividades curtas)
+
+> Usei [ferramenta] para [finalidade]. Verifiquei [o quê] em [fonte].
+
+::: {.content-hidden when-profile="estudante"}
+::: {.callout-note .para-ir-alem title="Para ir além"}
+<!-- TODO: modelos de declaração de periódicos e universidades para comparação -->
+:::
+:::

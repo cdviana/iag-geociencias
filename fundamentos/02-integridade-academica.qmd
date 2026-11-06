@@ -1,0 +1,23 @@
+# Integridade acadêmica e IA generativa {#sec-integridade}
+
+<!--
+Material de partida: aula sobre integridade acadêmica da disciplina
+PRG0048 (IA na Vida Acadêmica, USP).
+-->
+
+## Ideia central
+
+A pergunta útil não é "o estudante usou IA?", e sim "o que o estudante aprendeu e consegue demonstrar?". Políticas que tentam apenas detectar uso tendem a falhar, porque os detectores de texto gerado por IA não são confiáveis o bastante para embasar decisões disciplinares.
+
+## Conteúdo mínimo a desenvolver
+
+- **Transparência como norma.** Declarar o uso (ver @sec-declaracao) em vez de esconder.
+- **Autoria e responsabilidade.** Quem assina responde pelo conteúdo, incluindo erros gerados pela IA.
+- **Por que não confiar em detectores.** Falsos positivos, viés contra quem escreve em segunda língua.
+- **Integridade em atividades geocientíficas.** A observação de campo, a descrição de amostra e a caderneta de campo são registros primários. Usar IA para "produzir" observações é fabricação de dados, não apenas plágio.
+
+::: {.callout-note .para-ir-alem title="Para ir além"}
+- @perkins2024aias — propõe uma escala de níveis de uso de IA em avaliação que inspira a @sec-niveis. *Ler a descrição dos níveis.*
+
+<!-- TODO: incluir diretrizes da USP/Pró-Reitoria de Graduação, se houver documento oficial -->
+:::

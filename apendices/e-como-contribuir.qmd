@@ -1,0 +1,44 @@
+# Como contribuir {#sec-contribuir}
+
+Este livro é aberto a contribuições de docentes e estudantes de geociências. Não é preciso saber usar o GitHub.
+
+## Formas de contribuir
+
+- **Sem GitHub.** Preencha o formulário de contribuição. <!-- TODO: link do formulário -->
+- **Com conta no GitHub, sem editar arquivos.** Abra uma *issue* escolhendo um dos modelos: *Nova atividade*, *Relato de aplicação* ou *Sugestão de leitura*.
+- **Editando diretamente.** Use o botão "Editar esta página" e envie um *pull request*.
+
+## Convenções de escrita
+
+- Português do Brasil, linguagem direta.
+- Texto agnóstico de ferramenta. Nomes de produtos só no Apêndice C.
+- Toda afirmação factual sobre IA com fonte e data.
+- Exemplos de resposta de IA sempre com prompt, ferramenta e data.
+
+## Os três blocos
+
+Os blocos são escritos assim no arquivo `.qmd`:
+
+````markdown
+::: {.callout-note .para-ir-alem title="Para ir além"}
+- @chave-da-referencia — por que ler. *Qual parte ler.*
+:::
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+Descrição do erro típico.
+:::
+
+::: {.callout-tip .na-pratica title="Na prática"}
+Relato: disciplina, semestre, o que funcionou, o que mudar.
+:::
+````
+
+Limite: no máximo três leituras por bloco *Para ir além*.
+
+## Nova atividade
+
+Copie o arquivo `atividades/_modelo-atividade.qmd` e siga as instruções no início dele.
+
+## Créditos
+
+Contribuidores são listados no arquivo `CONTRIBUIDORES.md` e nos metadados das versões publicadas no Zenodo.

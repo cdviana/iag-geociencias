@@ -1,0 +1,17 @@
+# Custo ambiental e desigualdade de acesso {#sec-custo-acesso}
+
+## Ideia central
+
+Usar IA tem custo energético e hídrico, e as melhores ferramentas costumam ser pagas. Ambos os pontos importam numa área que estuda recursos naturais e numa universidade pública com estudantes de realidades muito diferentes.
+
+## Conteúdo mínimo a desenvolver
+
+- **Custo ambiental.** Ordens de grandeza com fontes atualizadas e datadas; incerteza das estimativas.
+- **Acesso.** Planos gratuitos × pagos; atividades que funcionem com ferramentas gratuitas; acordos institucionais.
+- **Uso proporcional.** Quando a IA não é a melhor ferramenta para a tarefa.
+
+<!-- TODO: levantar dados atualizados com fonte e data antes de escrever números -->
+
+::: {.callout-note .para-ir-alem title="Para ir além"}
+<!-- TODO: leitura sobre impacto ambiental da IA com metodologia explícita -->
+:::

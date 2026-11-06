@@ -1,0 +1,54 @@
+# Perfil "docente" (padrão): livro completo.
+# Para incluir um capítulo ou atividade nova, adicione-o aqui.
+# Atividades novas também vão em _quarto-estudante.yml.
+
+book:
+  chapters:
+    - index.qmd
+
+    - part: "Parte I — Fundamentos"
+      chapters:
+        - fundamentos/01-o-que-e-iag.qmd
+        - fundamentos/02-integridade-academica.qmd
+        - fundamentos/03-especificidades-geociencias.qmd
+
+    - part: "Parte II — IAG no trabalho docente"
+      chapters:
+        - docente/04-preparacao-de-aulas.qmd
+        - docente/05-avaliacao-e-feedback.qmd
+        - docente/06-pesquisa.qmd
+        - docente/07-etica-docente-pesquisador.qmd
+
+    - part: "Parte III — Políticas de uso nas disciplinas"
+      chapters:
+        - politicas/08-niveis-de-uso.qmd
+        - politicas/09-modelo-de-politica.qmd
+        - politicas/10-declaracao-de-uso.qmd
+
+    - part: "Parte IV — Atividades em sala"
+      chapters:
+        - atividades/11-como-usar-as-atividades.qmd
+        - atividades/caca-alucinacao-estratigrafica.qmd
+        - atividades/descricao-afloramento-amostra.qmd
+        - atividades/auditoria-codigo-sr.qmd
+        - atividades/comunicacao-de-risco.qmd
+        - atividades/audiencia-publica-simulada.qmd
+
+    - part: "Parte V — Avaliação"
+      chapters:
+        - avaliacao/12-redesenho-da-avaliacao.qmd
+
+    - part: "Parte VI — Questões críticas"
+      chapters:
+        - critica/13-vies-geografico.qmd
+        - critica/14-custo-ambiental-e-acesso.qmd
+        - critica/15-dados-sensiveis-e-territorio.qmd
+
+    - referencias.qmd
+
+  appendices:
+    - apendices/a-curadoria-manuais.qmd
+    - apendices/b-banco-de-prompts.qmd
+    - apendices/c-ferramentas.qmd
+    - apendices/d-glossario.qmd
+    - apendices/e-como-contribuir.qmd

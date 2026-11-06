@@ -1,0 +1,34 @@
+# Como usar as atividades {#sec-como-usar-atividades}
+
+## Formato padronizado
+
+Todas as atividades seguem o mesmo modelo (arquivo `atividades/_modelo-atividade.qmd` no repositório):
+
+1. **Metadados.** Disciplinas, nível, duração, [nível de uso de IA]{.nivel} e status.
+2. **Objetivos de aprendizagem.**
+3. **Preparação** *(só docente)*.
+4. **Roteiro.**
+5. **Prompts de exemplo.**
+6. **Armadilhas geológicas esperadas.**
+7. **Avaliação** *(só docente)*.
+8. **Variações.**
+9. **Perguntas de reflexão.**
+
+As seções marcadas *(só docente)* não aparecem na versão **Fichas do estudante**.
+
+## Status
+
+- [Testada em sala]{.status .testada}: aplicada ao menos uma vez, com relato.
+- [Proposta]{.status .proposta}: ainda não aplicada. Relatos são muito bem-vindos.
+
+## Índice das atividades
+
+| Atividade | Competência principal | Nível de IA | Status |
+|---|---|---|---|
+| [Caça à alucinação estratigráfica](caca-alucinacao-estratigrafica.qmd) | verificação em fontes primárias | N5 | Proposta |
+| [Descrição de afloramento ou amostra](descricao-afloramento-amostra.qmd) | observação e descrição | N1 → N5 | Proposta |
+| [Auditoria de código de sensoriamento remoto](auditoria-codigo-sr.qmd) | leitura crítica de código | N4 | Proposta |
+| [Comunicação de risco](comunicacao-de-risco.qmd) | comunicação técnica para o público | N3 | Proposta |
+| [Audiência pública simulada](audiencia-publica-simulada.qmd) | argumentação técnica e ética | N5 | Proposta |
+
+<!-- TODO: meta para a v0.1 — 6 a 8 atividades, metade testada em sala -->

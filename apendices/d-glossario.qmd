@@ -1,0 +1,15 @@
+# Glossário {#sec-glossario}
+
+**Alucinação** — conteúdo gerado pela IA que parece plausível, mas é falso ou sem base. O termo é discutido; alguns autores preferem "confabulação".
+
+**Janela de contexto** — quantidade de texto (e de outros conteúdos) que o modelo consegue considerar de uma vez.
+
+**Modelo de linguagem (LLM)** — modelo treinado para prever a continuação de textos, base das ferramentas de IA generativa de texto.
+
+**Multimodal** — modelo que processa mais de um tipo de conteúdo, como texto e imagem.
+
+**Prompt** — instrução ou pergunta enviada ao modelo.
+
+**Nível de uso** — grau de uso de IA permitido numa atividade (ver @sec-niveis).
+
+<!-- TODO: ampliar conforme os capítulos forem escritos -->

@@ -1,0 +1,66 @@
+# Audiência pública simulada {#sec-ativ-audiencia}
+
+| | |
+|---|---|
+| **Disciplinas** | Geologia ambiental, recursos minerais, hidrogeologia, geociências e meio ambiente |
+| **Nível** | graduação / licenciatura |
+| **Duração** | 2 aulas |
+| **Uso de IA** | [N5 — Exploração]{.nivel} |
+| **Status** | [Proposta]{.status .proposta} |
+: {.meta-atividade}
+
+## Objetivos de aprendizagem
+
+- Construir argumentos tecnicamente fundamentados sobre um caso de licenciamento ou uso do território.
+- Identificar vieses e estereótipos nos papéis interpretados pela IA.
+- Compreender os diferentes interesses envolvidos em decisões geoambientais.
+
+::: {.content-hidden when-profile="estudante"}
+## Preparação (docente)
+
+- Montar um caso fictício, mas geologicamente coerente (por exemplo, abertura de uma mineração próxima a um aquífero que abastece uma comunidade).
+- Preparar um dossiê técnico curto com os dados do caso.
+- Definir os papéis: empreendedor, órgão ambiental, comunidade, poder público municipal, equipe técnica independente.
+:::
+
+## Roteiro
+
+1. **Aula 1.** Cada grupo recebe um papel e usa a IA para simular os argumentos dos outros papéis, a fim de antecipar objeções.
+2. Os grupos preparam sua posição com base no dossiê técnico. Argumentos sem base no dossiê não são aceitos.
+3. **Aula 2.** Audiência simulada, com mediação do docente.
+4. Discussão final: como a IA representou cada papel? Que estereótipos apareceram?
+
+## Prompts de exemplo
+
+```text
+Você representa [PAPEL] em uma audiência pública sobre [CASO]. Com base
+apenas no dossiê abaixo, apresente os três principais argumentos dessa
+posição e as perguntas que faria aos demais participantes.
+
+[DOSSIÊ]
+```
+
+## Armadilhas geológicas esperadas
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+- Argumentos técnicos que extrapolam o dossiê (parâmetros hidrogeológicos inventados, por exemplo).
+- Representação caricata da comunidade ou do empreendedor.
+- Referências a normas e legislação inexistentes ou de outros países.
+:::
+
+::: {.content-hidden when-profile="estudante"}
+## Avaliação (docente)
+
+| Critério | Insuficiente | Adequado | Excelente |
+|---|---|---|---|
+| Fundamentação técnica | opinião | baseada no dossiê | baseada no dossiê, com limites da informação explicitados |
+| Análise crítica da IA | ausente | identifica estereótipos | discute a origem dos vieses e o efeito sobre o debate |
+
+## Variações
+
+- Usar um caso real já encerrado, com documentos públicos.
+:::
+
+## Perguntas de reflexão
+
+- Algum argumento gerado pela IA mudou sua visão do caso? Ele tinha fundamento?

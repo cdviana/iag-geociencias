@@ -1,0 +1,39 @@
+# O que muda nas geociências {#sec-especificidades}
+
+<!--
+Capítulo-chave: é o argumento do livro inteiro. Vale escrever com calma,
+com exemplos reais testados em ferramentas atuais.
+-->
+
+## Ideia central
+
+As geociências têm objetos de ensino, tipos de erro e responsabilidades éticas próprios. Um manual geral não dá conta deles.
+
+## Objetos de ensino
+
+| Objeto | Exemplos | Por que exige cuidado com IA |
+|---|---|---|
+| Observação direta | afloramento, amostra de mão, lâmina | é dado primário; não pode ser delegado |
+| Representações espaciais | mapas, perfis, seções, MDT | a IA raciocina mal sobre geometria e escala |
+| Dados e código | séries temporais, imagens de satélite, Python/GEE | código que roda não é código correto |
+| Textos técnicos | relatório de campo, laudo, parecer | têm valor legal e responsabilidade profissional |
+| Comunicação pública | risco geológico, alertas | erro de tom ou de conteúdo tem consequência social |
+
+## Tipos de erro característicos
+
+- Unidades estratigráficas, idades e contatos inventados ou trocados.
+- Coordenadas e topônimos errados ou de outra região homônima.
+- Transposição de modelos geológicos de regiões bem documentadas (Europa, América do Norte) para o contexto brasileiro.
+- Descrições de imagens confiantes, sem escala nem iluminação controladas.
+- Código com versões obsoletas de bibliotecas ou coleções de dados.
+
+## Responsabilidades próprias
+
+- Exercício profissional regulamentado (responsabilidade técnica).
+- Dados de comunidades em áreas de risco.
+- Comunicação de risco à população.
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+<!-- TODO: inserir aqui um exemplo real, com prompt e resposta datados, de um erro geológico característico -->
+Exemplo a documentar: pedir a descrição geológica de uma localidade conhecida pela turma e registrar os erros.
+:::

@@ -1,0 +1,34 @@
+name: Relato de aplicação
+description: Conte como foi aplicar uma atividade do livro
+title: "[Relato] "
+labels: ["relato"]
+body:
+  - type: input
+    id: atividade
+    attributes:
+      label: Qual atividade?
+    validations:
+      required: true
+  - type: input
+    id: contexto
+    attributes:
+      label: Disciplina, instituição, semestre e tamanho da turma
+  - type: textarea
+    id: funcionou
+    attributes:
+      label: O que funcionou
+  - type: textarea
+    id: mudar
+    attributes:
+      label: O que mudaria
+  - type: textarea
+    id: erros
+    attributes:
+      label: Erros da IA que apareceram (com ferramenta e data, se possível)
+  - type: checkboxes
+    id: licenca
+    attributes:
+      label: Licença
+      options:
+        - label: Concordo em licenciar este relato sob CC BY 4.0.
+          required: true

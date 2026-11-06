@@ -1,0 +1,71 @@
+# Título da atividade {#sec-ativ-SLUG}
+
+<!--
+COMO USAR ESTE MODELO
+1. Copie este arquivo para atividades/NOME-DA-ATIVIDADE.qmd (sem o "_" inicial).
+2. Troque SLUG no identificador acima por um nome curto.
+3. Adicione o arquivo em _quarto.yml (Parte IV) e em _quarto-estudante.yml.
+4. Atualize o índice em atividades/11-como-usar-as-atividades.qmd.
+Seções dentro de  ::: {.content-hidden when-profile="estudante"}  só
+aparecem na versão do docente.
+-->
+
+| | |
+|---|---|
+| **Disciplinas** | |
+| **Nível** | graduação / pós-graduação / licenciatura |
+| **Duração** | |
+| **Uso de IA** | [N?]{.nivel} |
+| **Status** | [Proposta]{.status .proposta} |
+| **Autoria** | |
+: {.meta-atividade}
+
+## Objetivos de aprendizagem
+
+-
+
+::: {.content-hidden when-profile="estudante"}
+## Preparação (docente)
+
+- Materiais:
+- Fontes de verificação a disponibilizar:
+- Tempo de preparo estimado:
+:::
+
+## Roteiro
+
+1.
+
+## Prompts de exemplo
+
+```text
+
+```
+
+## Armadilhas geológicas esperadas
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+
+:::
+
+::: {.content-hidden when-profile="estudante"}
+## Avaliação (docente)
+
+| Critério | Insuficiente | Adequado | Excelente |
+|---|---|---|---|
+| | | | |
+
+## Variações
+
+-
+:::
+
+## Perguntas de reflexão
+
+-
+
+::: {.content-hidden when-profile="estudante"}
+::: {.callout-tip .na-pratica title="Na prática"}
+<!-- Relato de aplicação: turma, data, o que funcionou, o que mudar -->
+:::
+:::

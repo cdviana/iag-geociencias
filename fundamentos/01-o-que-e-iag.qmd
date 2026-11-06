@@ -1,0 +1,29 @@
+# O que é IA generativa (e o que ela não é) {#sec-o-que-e-iag}
+
+<!--
+Objetivo do capítulo: dar ao docente o modelo mental mínimo para usar e
+discutir IAG com a turma. Não competir com os manuais gerais: sintetizar
+e apontar para eles nos blocos "Para ir além".
+-->
+
+## Ideia central
+
+Modelos de linguagem geram texto **plausível**, palavra a palavra, a partir de padrões aprendidos em grandes volumes de dados. Plausível não é o mesmo que verdadeiro. Essa distinção é a base de quase tudo o que este livro propõe.
+
+## Conteúdo mínimo a desenvolver
+
+- **Como funciona, em uma página.** Treinamento, geração probabilística, janela de contexto. Sem jargão.
+- **Modalidades.** Texto, imagem, código, dados tabulares, modelos multimodais que "leem" fotos e figuras.
+- **O que ela faz bem.** Reescrever, resumir, estruturar, traduzir, gerar código, propor alternativas.
+- **O que ela faz mal.** Fatos específicos e pouco documentados, referências bibliográficas, raciocínio espacial, quantidades, regiões sub-representadas nos dados.
+- **Ferramentas com acesso à web ou a documentos.** Reduzem, mas não eliminam, o problema das invenções.
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+Quanto mais específica e local a pergunta (uma formação pouco estudada, um município do interior), maior a chance de a resposta misturar informações de outras regiões com aparência de precisão.
+:::
+
+::: {.callout-note .para-ir-alem title="Para ir além"}
+- @unesco2023 — visão institucional ampla sobre IAG em educação e pesquisa. *Parte a indicar após leitura.*
+
+<!-- TODO: completar com 1–2 leituras introdutórias em português -->
+:::

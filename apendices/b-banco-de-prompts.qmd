@@ -1,0 +1,35 @@
+# Banco de prompts {#sec-prompts}
+
+Prompts reutilizáveis, organizados por finalidade. Os prompts estão sob licença MIT e podem ser copiados e adaptados livremente.
+
+## Padrões que funcionam bem
+
+- **Fornecer as fontes**, em vez de pedir que a IA "saiba".
+- **Pedir o grau de confiança** de cada afirmação.
+- **Proibir acréscimos:** "não acrescente informações que não estejam no texto".
+- **Pedir afirmações verificáveis separadas**, para facilitar a checagem.
+
+## Preparação de aulas
+
+```text
+A partir do material abaixo, elabore [N] questões de múltipla escolha
+sobre [TEMA] para [NÍVEL]. Para cada questão, indique a resposta correta,
+o erro conceitual que cada distrator representa e o trecho do material
+que fundamenta a resposta.
+
+[MATERIAL]
+```
+
+## Verificação
+
+```text
+Liste, em tópicos, todas as afirmações factuais verificáveis do texto
+abaixo (nomes de unidades, idades, valores, localidades, autores). Não
+avalie se estão corretas; apenas liste.
+
+[TEXTO]
+```
+
+## Pesquisa
+
+<!-- TODO: prompts testados para extração de tabelas, revisão de código e revisão de inglês -->

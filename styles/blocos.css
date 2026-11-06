@@ -1,0 +1,40 @@
+/* ------------------------------------------------------------
+   Três blocos recorrentes do livro (ver Apêndice E):
+   .para-ir-alem  → leituras de manuais gerais (callout-note)
+   .armadilha     → erros típicos da IA em geociências (callout-warning)
+   .na-pratica    → relato de aplicação em sala (callout-tip)
+   ------------------------------------------------------------ */
+
+.callout.para-ir-alem { border-left-color: #2b6cb0 !important; }
+.callout.para-ir-alem .callout-header { background-color: rgba(43, 108, 176, 0.10) !important; }
+
+.callout.armadilha { border-left-color: #b7791f !important; }
+.callout.armadilha .callout-header { background-color: rgba(183, 121, 31, 0.12) !important; }
+
+.callout.na-pratica { border-left-color: #2f855a !important; }
+.callout.na-pratica .callout-header { background-color: rgba(47, 133, 90, 0.10) !important; }
+
+/* Selo de status das atividades */
+.status {
+  display: inline-block;
+  padding: 0.1em 0.6em;
+  border-radius: 999px;
+  font-size: 0.85em;
+  font-weight: 600;
+  border: 1px solid currentColor;
+}
+.status.testada  { color: #2f855a; }
+.status.proposta { color: #b7791f; }
+
+/* Selo de nível de uso de IA */
+.nivel {
+  display: inline-block;
+  padding: 0.1em 0.6em;
+  border-radius: 4px;
+  font-size: 0.85em;
+  font-weight: 600;
+  background: rgba(43, 108, 176, 0.12);
+}
+
+/* Tabela de metadados da atividade */
+table.meta-atividade td:first-child { font-weight: 600; white-space: nowrap; }

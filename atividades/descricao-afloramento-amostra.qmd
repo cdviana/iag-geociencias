@@ -1,0 +1,68 @@
+# Descrição de afloramento ou amostra {#sec-ativ-descricao}
+
+| | |
+|---|---|
+| **Disciplinas** | Mineralogia, petrografia, sedimentologia, geologia de campo |
+| **Nível** | graduação |
+| **Duração** | 1 aula prática (2 h) |
+| **Uso de IA** | [N1 → N5]{.nivel} (primeiro sem IA, depois IA como objeto de crítica) |
+| **Status** | [Proposta]{.status .proposta} |
+: {.meta-atividade}
+
+## Objetivos de aprendizagem
+
+- Praticar a descrição sistemática de afloramento ou amostra.
+- Comparar a própria observação com a descrição gerada por IA multimodal.
+- Entender os limites de uma descrição feita a partir de imagem.
+
+::: {.content-hidden when-profile="estudante"}
+## Preparação (docente)
+
+- Selecionar fotos de afloramentos ou amostras **com e sem escala**, e, se possível, a amostra física correspondente.
+- Ter a descrição de referência (do docente ou da literatura).
+- Garantir que a etapa 1 seja feita sem acesso à IA.
+:::
+
+## Roteiro
+
+1. **Sem IA.** Descreva a amostra ou a foto seguindo o roteiro de descrição da disciplina.
+2. **Com IA.** Envie a mesma foto à IA e peça uma descrição.
+3. Compare as duas descrições em uma tabela: o que coincide, o que diverge, o que a IA afirmou sem ter como saber.
+4. Repita o passo 2 com a foto sem escala ou com outra iluminação. O que mudou?
+5. Confronte as duas descrições com a amostra física ou com a descrição de referência.
+
+## Prompts de exemplo
+
+```text
+Descreva esta [amostra de mão / foto de afloramento] como um(a) geólogo(a)
+faria em caderneta de campo: cor, textura, estrutura, mineralogia
+identificável e interpretação. Indique o grau de confiança de cada item.
+```
+
+## Armadilhas geológicas esperadas
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+- Identificação de minerais "pela aparência geral", sem critérios diagnósticos.
+- Confusão entre estrutura e textura, ou entre feição primária e secundária.
+- Afirmações de tamanho de grão ou espessura sem escala na imagem.
+- Cor descrita a partir de foto com balanço de branco alterado.
+:::
+
+::: {.content-hidden when-profile="estudante"}
+## Avaliação (docente)
+
+| Critério | Insuficiente | Adequado | Excelente |
+|---|---|---|---|
+| Descrição própria | incompleta | segue o roteiro | completa e precisa |
+| Comparação | lista diferenças | explica diferenças | identifica o que a imagem não permite saber |
+
+## Variações
+
+- Usar lâminas delgadas (fotomicrografias com e sem nicóis cruzados).
+- Em campo: fotografar, descrever na caderneta e comparar à noite.
+:::
+
+## Perguntas de reflexão
+
+- O que você observou que a foto não mostra?
+- Em que a IA foi mais confiante do que deveria?

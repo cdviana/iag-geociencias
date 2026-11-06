@@ -1,0 +1,45 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "IA Generativa no Ensino de Geociências"
+  subtitle: "Um manual vivo para docentes"
+  author:
+    - name: Camila Duelis Viana
+      affiliation: Instituto de Geociências, Universidade de São Paulo (IGc-USP)
+  date: last-modified
+  # TROCAR pelo endereço real do repositório depois de criá-lo no GitHub
+  repo-url: https://github.com/SEU-USUARIO/iag-geociencias
+  repo-actions: [edit, issue, source]
+  search: true
+  downloads: [pdf, epub]
+  page-footer:
+    center: "Texto sob licença CC BY 4.0 · Código e prompts sob licença MIT"
+
+  # A lista de capítulos fica nos perfis:
+  #   _quarto-docente.yml    → livro completo (padrão)
+  #   _quarto-estudante.yml  → fichas do estudante
+
+profile:
+  default: docente
+
+lang: pt
+bibliography: referencias.bib
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles/blocos.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-copy: true
+  pdf:
+    documentclass: scrreprt
+    papersize: a4
+    toc: true
+  epub:
+    toc: true

@@ -1,0 +1,32 @@
+# Redesenho da avaliação {#sec-redesenho}
+
+## Ideia central
+
+Algumas formas de avaliação deixaram de medir o que pretendiam, como o relatório escrito em casa sem nenhuma etapa presencial. Outras ganharam importância. O objetivo é avaliar processo e julgamento, não apenas o produto final.
+
+## O que perde força
+
+- Textos descritivos genéricos produzidos fora da sala.
+- Listas de exercícios com resposta única e encontrável.
+- Resumos de bibliografia sem posicionamento.
+
+## O que ganha força
+
+- **Observação direta e caderneta de campo**, avaliadas em campo.
+- **Defesa oral** curta de trabalhos escritos.
+- **Avaliação do processo.** Versões intermediárias, registro de decisões, declaração de uso.
+- **Verificação como competência.** Avaliar a capacidade de checar afirmações em fontes primárias.
+- **Dados próprios.** Trabalhos baseados em dados coletados pela turma, que a IA não conhece.
+
+## Conteúdo mínimo a desenvolver
+
+- Tabela "tipo de avaliação × vulnerabilidade ao uso não declarado × alternativa".
+- Exemplos de redesenho em disciplinas reais.
+
+::: {.callout-tip .na-pratica title="Na prática"}
+<!-- TODO: exemplo de redesenho de avaliação final de uma disciplina -->
+:::
+
+::: {.callout-note .para-ir-alem title="Para ir além"}
+- @perkins2024aias — discussão sobre avaliação em diferentes níveis de uso.
+:::

@@ -1,0 +1,67 @@
+# Comunicação de risco para a população {#sec-ativ-risco}
+
+| | |
+|---|---|
+| **Disciplinas** | Geologia de engenharia, riscos geológicos, geociências e meio ambiente, extensão |
+| **Nível** | graduação / licenciatura |
+| **Duração** | 1 aula (2 h) |
+| **Uso de IA** | [N3 — Colaboração]{.nivel} |
+| **Status** | [Proposta]{.status .proposta} |
+: {.meta-atividade}
+
+## Objetivos de aprendizagem
+
+- Traduzir informação técnica de risco geológico para linguagem acessível sem perder conteúdo essencial.
+- Avaliar criticamente o tom e a precisão de textos gerados por IA.
+- Refletir sobre a responsabilidade na comunicação de risco.
+
+::: {.content-hidden when-profile="estudante"}
+## Preparação (docente)
+
+- Selecionar um trecho técnico (por exemplo, descrição de um setor de risco). **Usar caso fictício ou anonimizado**, sem nomes nem endereços de moradores.
+- Definir o público-alvo (moradores, escola, defesa civil municipal).
+:::
+
+## Roteiro
+
+1. Leiam o trecho técnico e listem as informações **essenciais** (processo, grau de risco, sinais de alerta, o que fazer).
+2. Peçam à IA uma versão para o público-alvo.
+3. Verifiquem se todas as informações essenciais permaneceram e se surgiram afirmações novas sem base.
+4. Avaliem o tom: alarmista, tranquilizador demais, ou adequado?
+5. Reescrevam a versão final, combinando o melhor das duas.
+
+## Prompts de exemplo
+
+```text
+Reescreva o texto técnico abaixo para [PÚBLICO], em linguagem simples,
+sem perder: o tipo de processo, o grau de risco, os sinais de alerta e
+as ações recomendadas. Não acrescente informações que não estejam no texto.
+
+[TEXTO]
+```
+
+## Armadilhas geológicas esperadas
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+- Simplificação que transforma "risco alto" em linguagem tranquilizadora.
+- Sinais de alerta genéricos, copiados de outros contextos (ex.: de terremotos).
+- Recomendações que contradizem as orientações da defesa civil local.
+:::
+
+::: {.content-hidden when-profile="estudante"}
+## Avaliação (docente)
+
+| Critério | Insuficiente | Adequado | Excelente |
+|---|---|---|---|
+| Fidelidade técnica | perdeu informação essencial | manteve o essencial | manteve tudo e eliminou o que a IA inventou |
+| Adequação ao público | linguagem técnica | acessível | acessível e testada com um leitor do público-alvo |
+
+## Variações
+
+- Produzir material para rádio comunitária ou mensagem curta de celular.
+- Integrar com projetos de extensão sobre risco.
+:::
+
+## Perguntas de reflexão
+
+- Quem é responsável se um texto de comunicação de risco contiver um erro?

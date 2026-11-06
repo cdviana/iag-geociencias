@@ -1,0 +1,16 @@
+# Dados sensíveis e território {#sec-dados-sensiveis}
+
+## Ideia central
+
+Geocientistas lidam com dados que identificam pessoas e lugares: moradias em áreas de risco, comunidades tradicionais, propriedades rurais, dados não publicados de parceiros. Enviar esses dados a ferramentas de IA pode violar acordos, a LGPD e a confiança das comunidades.
+
+## Conteúdo mínimo a desenvolver
+
+- O que **não** enviar a ferramentas de IA sem acordo institucional.
+- Anonimização e uso de casos fictícios em atividades.
+- Termos de uso das ferramentas: retenção e uso dos dados para treinamento.
+- Dados de parceiros públicos e privados: verificar o que os acordos de cooperação permitem.
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+Coordenadas precisas de uma moradia em área de risco, combinadas com uma foto, já identificam uma família, mesmo sem nome.
+:::

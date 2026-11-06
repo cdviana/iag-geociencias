@@ -1,0 +1,30 @@
+name: Sugestão de leitura
+description: Indique um manual ou guia para a curadoria
+title: "[Leitura] "
+labels: ["curadoria"]
+body:
+  - type: input
+    id: referencia
+    attributes:
+      label: Referência (com DOI ou URL)
+    validations:
+      required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo
+      options: [Diretriz institucional, Guia prático, Artigo, Posição de entidade, Outro]
+  - type: input
+    id: idioma
+    attributes:
+      label: Idioma
+  - type: textarea
+    id: porque
+    attributes:
+      label: Por que ler (uma frase) e qual parte
+    validations:
+      required: true
+  - type: textarea
+    id: ressalvas
+    attributes:
+      label: Ressalvas para o contexto das geociências

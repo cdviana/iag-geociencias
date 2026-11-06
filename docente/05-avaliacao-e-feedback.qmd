@@ -1,0 +1,16 @@
+# Avaliação e feedback {#sec-feedback}
+
+## Ideia central
+
+A IA pode ajudar a estruturar rubricas e a redigir feedback, mas a avaliação é responsabilidade de quem leciona. O livro deve tratar disso com honestidade, incluindo os limites.
+
+## Conteúdo mínimo a desenvolver
+
+- **Rubricas.** Gerar uma primeira versão a partir dos objetivos de aprendizagem e ajustar.
+- **Feedback em relatórios.** Usar a IA para apontar problemas de estrutura e clareza. O conteúdo técnico é avaliado pelo docente.
+- **O que não fazer.** Atribuir notas automaticamente; enviar trabalhos com dados pessoais de estudantes para ferramentas sem acordo institucional.
+- **Transparência com a turma.** Se o docente usa IA no feedback, isso deve estar dito na política da disciplina.
+
+::: {.callout-note .para-ir-alem title="Para ir além"}
+<!-- TODO: leitura sobre uso de IA em feedback e avaliação (indicar seção específica) -->
+:::

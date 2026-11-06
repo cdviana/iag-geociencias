@@ -1,0 +1,29 @@
+# Modelo de política para a disciplina {#sec-modelo-politica}
+
+## Ideia central
+
+Uma política curta, clara e incluída no programa da disciplina evita a maior parte dos conflitos. Ela deve ser discutida com a turma na primeira aula.
+
+## Modelo de cláusula (para adaptar)
+
+> **Uso de inteligência artificial generativa nesta disciplina**
+>
+> 1. Cada atividade indica o nível de uso de IA permitido (N1 a N5), conforme a escala apresentada na primeira aula.
+> 2. Registros de observação direta (campo, laboratório, lâminas) são sempre feitos sem IA.
+> 3. Todo uso de IA deve ser declarado conforme o modelo de declaração da disciplina.
+> 4. O estudante é responsável pelo conteúdo que entrega, inclusive por erros produzidos por ferramentas de IA.
+> 5. A docente também declara quando usa IA na preparação de materiais ou no feedback.
+> 6. Dúvidas sobre o que é permitido devem ser tiradas **antes** da entrega.
+
+## Variações por tipo de disciplina
+
+- **Disciplinas de campo e mapeamento.** Ênfase na caderneta como registro primário.
+- **Disciplinas de laboratório (mineralogia, petrografia).** Descrição feita antes de qualquer consulta à IA.
+- **Disciplinas de programação e análise de dados.** Uso amplo, com exigência de explicação e teste.
+- **Disciplinas da licenciatura.** Discussão sobre como lidar com IA no ensino básico.
+
+<!-- TODO: incluir 2–3 exemplos reais de políticas de disciplinas do IGc (com autorização) -->
+
+::: {.callout-tip .na-pratica title="Na prática"}
+<!-- TODO: como a política foi apresentada e negociada com uma turma real -->
+:::

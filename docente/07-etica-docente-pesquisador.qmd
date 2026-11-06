@@ -1,0 +1,19 @@
+# Ética do docente-pesquisador {#sec-etica-docente}
+
+## Ideia central
+
+O docente que usa IA também está sujeito a regras, e o exemplo dele dá credibilidade à política que aplica na disciplina.
+
+## Conteúdo mínimo a desenvolver
+
+- **Revisão por pares.** Não enviar manuscritos em avaliação para ferramentas de IA; isso quebra a confidencialidade. Verificar a política de cada periódico.
+- **Autoria.** Ferramentas de IA não são autoras. Declarar o uso conforme a política do periódico.
+- **Agências de fomento.** Verificar orientações sobre uso de IA em propostas e pareceres.
+- **Dados sensíveis de campo.** Informações sobre moradores de áreas de risco, localização de comunidades, dados não publicados de parceiros (ver @sec-dados-sensiveis).
+- **Coerência.** Usar e declarar do mesmo modo que se exige dos estudantes.
+
+::: {.callout-note .para-ir-alem title="Para ir além"}
+- @cope2023 — posição do COPE sobre autoria e ferramentas de IA. *Ler a declaração completa (curta).*
+
+<!-- TODO: incluir orientações de agências de fomento e da universidade, quando houver -->
+:::

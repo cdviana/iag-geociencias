@@ -1,0 +1,52 @@
+# Apresentação {.unnumbered}
+
+::: {.content-hidden when-profile="estudante"}
+
+Este é um **livro vivo**: ele é atualizado continuamente, tem versões citáveis e aceita contribuições de quem ensina geociências. É também uma resposta a uma lacuna. Já existem bons manuais gerais sobre IA generativa (IAG) na educação, mas quase nenhum trata do que é próprio da nossa área: amostras, afloramentos, mapas, dados espaciais, código científico, relatórios de campo e comunicação de risco.
+
+## Para quem é este livro
+
+O público principal são **docentes de geociências no ensino superior** (geologia, geofísica, meteorologia, oceanografia, geografia física, engenharias afins). Cada atividade da Parte IV tem também uma **ficha do estudante**, gerada a partir do mesmo texto, para distribuir à turma.
+
+## Como o livro está organizado
+
+- **Parte I — Fundamentos.** O essencial dos manuais gerais, com o que muda nas geociências.
+- **Parte II — IAG no trabalho docente.** Uso pessoal no preparo de aulas, na avaliação e na pesquisa. Familiaridade com a ferramenta vem antes de desenhar atividades.
+- **Parte III — Políticas de uso.** Níveis de uso, modelo de política para o programa da disciplina e declaração de uso.
+- **Parte IV — Atividades em sala.** Atividades num formato padronizado, com armadilhas geológicas esperadas e critérios de avaliação.
+- **Parte V — Avaliação.** O que deixa de fazer sentido avaliar e o que passa a fazer.
+- **Parte VI — Questões críticas.** Viés geográfico, custo ambiental, acesso e dados sensíveis.
+
+## Três blocos recorrentes
+
+::: {.callout-note .para-ir-alem title="Para ir além"}
+Indica 1 a 3 leituras de manuais gerais para aprofundar o tema, dizendo **qual parte** ler e **por quê**.
+:::
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+Erros típicos da IA em conteúdo geocientífico: unidades inventadas, coordenadas erradas, generalizações de outras regiões.
+:::
+
+::: {.callout-tip .na-pratica title="Na prática"}
+Relatos de aplicação em sala: o que funcionou, o que não funcionou e o que mudar.
+:::
+
+## Princípios
+
+1. **Ferramentas mudam, competências ficam.** O texto é agnóstico de ferramenta. O que é específico de um produto fica no Apêndice C, com data.
+2. **Rigor geológico acima de convenção.** Toda atividade explicita como a resposta da IA é verificada contra fontes primárias.
+3. **Coerência.** O que o docente exige dos estudantes, o docente também pratica e declara.
+
+## Como citar
+
+Use a versão com DOI mais recente (ver o arquivo `CITATION.cff` no repositório). A cada versão publicada, um novo DOI é gerado pelo Zenodo.
+
+<!-- TODO: inserir badge do DOI do Zenodo após a primeira release -->
+
+:::
+
+::: {.content-visible when-profile="estudante"}
+
+Estas fichas acompanham atividades propostas pelo seu docente. Elas trazem o roteiro, os prompts sugeridos e as perguntas de reflexão. Leia também a seção sobre **declaração de uso de IA**, ao final.
+
+:::

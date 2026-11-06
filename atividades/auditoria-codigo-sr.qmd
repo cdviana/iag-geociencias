@@ -1,0 +1,70 @@
+# Auditoria de código de sensoriamento remoto {#sec-ativ-codigo}
+
+| | |
+|---|---|
+| **Disciplinas** | Sensoriamento remoto, geoprocessamento, ML em geociências |
+| **Nível** | graduação / pós-graduação |
+| **Duração** | 1–2 aulas |
+| **Uso de IA** | [N4 — Uso amplo]{.nivel} |
+| **Status** | [Proposta]{.status .proposta} |
+: {.meta-atividade}
+
+## Objetivos de aprendizagem
+
+- Ler criticamente um código de processamento de imagens.
+- Distinguir "código que roda" de "código correto".
+- Projetar um teste com resultado conhecido.
+
+::: {.content-hidden when-profile="estudante"}
+## Preparação (docente)
+
+- Definir uma tarefa clara (por exemplo, calcular um índice espectral para uma área e período, com máscara de nuvens).
+- Gerar previamente um código com IA e identificar os erros que ele contém, para ter um gabarito.
+- Ambiente de execução: notebook Python ou Google Earth Engine.
+:::
+
+## Roteiro
+
+1. Peçam à IA o código para a tarefa definida.
+2. Executem o código. Ele roda?
+3. Auditem linha a linha, preenchendo uma tabela: o que a linha faz, se está correta, como sabem.
+4. Verifiquem em especial: coleção de dados e versão, bandas usadas, fator de escala, máscara de nuvens, projeção e resolução, período.
+5. Proponham um teste com resultado conhecido (por exemplo, um alvo de comportamento espectral previsível) e executem.
+6. Corrijam o código e documentem as correções.
+
+## Prompts de exemplo
+
+```text
+Escreva um script em [Python / JavaScript do Earth Engine] que calcule
+[ÍNDICE] para a área [AOI] entre [DATAS], usando [SENSOR], com máscara de
+nuvens. Comente cada etapa.
+```
+
+## Armadilhas geológicas esperadas
+
+::: {.callout-warning .armadilha title="Armadilha geológica"}
+- Coleções de dados descontinuadas ou substituídas por versões mais novas.
+- Bandas trocadas entre sensores diferentes.
+- Ausência do fator de escala de reflectância, que gera valores fora do intervalo esperado sem gerar erro.
+- Máscara de nuvem incorreta ou ausente.
+- Reamostragem e projeção implícitas que alteram o resultado.
+:::
+
+::: {.content-hidden when-profile="estudante"}
+## Avaliação (docente)
+
+| Critério | Insuficiente | Adequado | Excelente |
+|---|---|---|---|
+| Auditoria | superficial | identifica a maioria dos erros | identifica todos e explica a consequência de cada um |
+| Teste | ausente | executado | bem desenhado, com critério de aceitação explícito |
+| Documentação | ausente | lista as mudanças | explica as mudanças e as fontes consultadas |
+
+## Variações
+
+- SAR: pré-processamento (calibração, speckle, geometria).
+- ML: auditar um pipeline de classificação, com atenção a vazamento de dados e validação espacial.
+:::
+
+## Perguntas de reflexão
+
+- Qual erro teria passado despercebido se você só tivesse olhado o mapa final?
