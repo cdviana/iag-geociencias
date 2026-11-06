@@ -11,8 +11,8 @@ version: 0.1.0
 # doi: 10.5281/zenodo.XXXXXXX
 date-released: 2026-11-06
 license: CC-BY-4.0
-repository-code: "https://github.com/SEU-USUARIO/iag-geociencias"
-url: "https://SEU-USUARIO.github.io/iag-geociencias/"
+repository-code: "https://github.com/cdviana/iag-geociencias"
+url: "https://cdviana.github.io/iag-geociencias/"
 keywords:
   - inteligência artificial generativa
   - ensino de geociências

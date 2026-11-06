@@ -10,7 +10,7 @@ book:
       affiliation: Instituto de Geociências, Universidade de São Paulo (IGc-USP)
   date: last-modified
   # TROCAR pelo endereço real do repositório depois de criá-lo no GitHub
-  repo-url: https://github.com/SEU-USUARIO/iag-geociencias
+  repo-url: https://github.com/cdviana/iag-geociencias
   repo-actions: [edit, issue, source]
   search: true
   downloads: [pdf, epub]
